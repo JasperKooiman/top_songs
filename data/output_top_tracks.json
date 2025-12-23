@@ -1,1 +1,2507 @@
-
+{
+  "source": "data/songs.json",
+  "criteria": "Top 250 tracks op Spotify popularity",
+  "total_tracks_analyzed": 597,
+  "tracks": [
+    {
+      "title": "Baila bailalaa",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2025,
+      "spotify_track_url": "https://open.spotify.com/track/0s0GNwEFTBE1cXezAyrmUi",
+      "spotify_track_id": "0s0GNwEFTBE1cXezAyrmUi",
+      "album_name": "46 - Vol avontuur",
+      "album_year": 2025,
+      "popularity": 52
+    },
+    {
+      "title": "Lekker eigenwijs",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2024,
+      "spotify_track_url": "https://open.spotify.com/track/6Ywtn5b16tAlqwQJrzEXm8",
+      "spotify_track_id": "6Ywtn5b16tAlqwQJrzEXm8",
+      "album_name": "45 - Lekker eigenwijs",
+      "album_year": 2024,
+      "popularity": 52
+    },
+    {
+      "title": "Pasapas",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2019,
+      "spotify_track_url": "https://open.spotify.com/track/7G7xDVo2PIUOJVipYbe3bV",
+      "spotify_track_id": "7G7xDVo2PIUOJVipYbe3bV",
+      "album_name": "40 - Reis mee!",
+      "album_year": 2019,
+      "popularity": 51
+    },
+    {
+      "title": "Vol avontuur",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2025,
+      "spotify_track_url": "https://open.spotify.com/track/1dWVNtxHec9l4iHg2YsymB",
+      "spotify_track_id": "1dWVNtxHec9l4iHg2YsymB",
+      "album_name": "46 - Vol avontuur",
+      "album_year": 2025,
+      "popularity": 50
+    },
+    {
+      "title": "Op de boerderij",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2025,
+      "spotify_track_url": "https://open.spotify.com/track/5sxaTlX4bD1ygI59di44jN",
+      "spotify_track_id": "5sxaTlX4bD1ygI59di44jN",
+      "album_name": "46 - Vol avontuur",
+      "album_year": 2025,
+      "popularity": 50
+    },
+    {
+      "title": "Daba Die Daba Daa",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2024,
+      "spotify_track_url": "https://open.spotify.com/track/4to9kWICO3BiSYrD4a3zyX",
+      "spotify_track_id": "4to9kWICO3BiSYrD4a3zyX",
+      "album_name": "45 - Lekker eigenwijs",
+      "album_year": 2024,
+      "popularity": 50
+    },
+    {
+      "title": "Hupsakee!",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2016,
+      "spotify_track_url": "https://open.spotify.com/track/7pXiqvF1YAmAGohFzpqXbM",
+      "spotify_track_id": "7pXiqvF1YAmAGohFzpqXbM",
+      "album_name": "37 - Voor altijd jong!",
+      "album_year": 2016,
+      "popularity": 50
+    },
+    {
+      "title": "De Kerstezel",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1990,
+      "spotify_track_url": "https://open.spotify.com/track/0cmsqrKB3J96EHDE020pAW",
+      "spotify_track_id": "0cmsqrKB3J96EHDE020pAW",
+      "album_name": "11 - Kinderen voor Kinderen",
+      "album_year": 1990,
+      "popularity": 50
+    },
+    {
+      "title": "Dansen in de regen",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2024,
+      "spotify_track_url": "https://open.spotify.com/track/5zh0gHpGzmzZEtsQRL4xPG",
+      "spotify_track_id": "5zh0gHpGzmzZEtsQRL4xPG",
+      "album_name": "45 - Lekker eigenwijs",
+      "album_year": 2024,
+      "popularity": 49
+    },
+    {
+      "title": "5 dagen weekend",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2025,
+      "spotify_track_url": "https://open.spotify.com/track/6NDzmMrUG5gUBAnmP1R0KU",
+      "spotify_track_id": "6NDzmMrUG5gUBAnmP1R0KU",
+      "album_name": "46 - Vol avontuur",
+      "album_year": 2025,
+      "popularity": 48
+    },
+    {
+      "title": "Wat is er met me aan de hand",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2025,
+      "spotify_track_url": "https://open.spotify.com/track/7Fnt6DZNnB5LNzTg04g4H1",
+      "spotify_track_id": "7Fnt6DZNnB5LNzTg04g4H1",
+      "album_name": "46 - Vol avontuur",
+      "album_year": 2025,
+      "popularity": 47
+    },
+    {
+      "title": "Haai Alarm!",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2017,
+      "spotify_track_url": "https://open.spotify.com/track/5BR0NuF8t22IXEb62zfw6g",
+      "spotify_track_id": "5BR0NuF8t22IXEb62zfw6g",
+      "album_name": "38 - Gruwelijk eng",
+      "album_year": 2017,
+      "popularity": 46
+    },
+    {
+      "title": "Kleur de wereld groen",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2025,
+      "spotify_track_url": "https://open.spotify.com/track/5MppH5OIxJKacTcpdfZws4",
+      "spotify_track_id": "5MppH5OIxJKacTcpdfZws4",
+      "album_name": "46 - Vol avontuur",
+      "album_year": 2025,
+      "popularity": 45
+    },
+    {
+      "title": "Okido",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2017,
+      "spotify_track_url": "https://open.spotify.com/track/2kFJHuh7cKEhPUXDV4P1st",
+      "spotify_track_id": "2kFJHuh7cKEhPUXDV4P1st",
+      "album_name": "38 - Gruwelijk eng",
+      "album_year": 2017,
+      "popularity": 45
+    },
+    {
+      "title": "Tijdmachine",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2025,
+      "spotify_track_url": "https://open.spotify.com/track/2kUdMQdFU76gzPJK4EBe8d",
+      "spotify_track_id": "2kUdMQdFU76gzPJK4EBe8d",
+      "album_name": "46 - Vol avontuur",
+      "album_year": 2025,
+      "popularity": 44
+    },
+    {
+      "title": "Giechel",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2025,
+      "spotify_track_url": "https://open.spotify.com/track/0I6ILRoXNFyGIbHAO3mmT5",
+      "spotify_track_id": "0I6ILRoXNFyGIbHAO3mmT5",
+      "album_name": "46 - Vol avontuur",
+      "album_year": 2025,
+      "popularity": 44
+    },
+    {
+      "title": "Samen alleen - NXT",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2025,
+      "spotify_track_url": "https://open.spotify.com/track/4CCXic4xZjFEpSFYhtaJf1",
+      "spotify_track_id": "4CCXic4xZjFEpSFYhtaJf1",
+      "album_name": "46 - Vol avontuur",
+      "album_year": 2025,
+      "popularity": 44
+    },
+    {
+      "title": "Op een eiland",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2024,
+      "spotify_track_url": "https://open.spotify.com/track/0AZKztHONbLWNx94BRgOrK",
+      "spotify_track_id": "0AZKztHONbLWNx94BRgOrK",
+      "album_name": "45 - Lekker eigenwijs",
+      "album_year": 2024,
+      "popularity": 44
+    },
+    {
+      "title": "Heimwee",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2025,
+      "spotify_track_url": "https://open.spotify.com/track/5SyL7KtC1nzkFQ8Xd800Ja",
+      "spotify_track_id": "5SyL7KtC1nzkFQ8Xd800Ja",
+      "album_name": "46 - Vol avontuur",
+      "album_year": 2025,
+      "popularity": 43
+    },
+    {
+      "title": "Hardop dromen",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2024,
+      "spotify_track_url": "https://open.spotify.com/track/2iBGVympAN7k2eOfX5yXQd",
+      "spotify_track_id": "2iBGVympAN7k2eOfX5yXQd",
+      "album_name": "45 - Lekker eigenwijs",
+      "album_year": 2024,
+      "popularity": 42
+    },
+    {
+      "title": "Gruwelijk Eng",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2017,
+      "spotify_track_url": "https://open.spotify.com/track/4Ip84YLNwIYVWU3u1tVqpt",
+      "spotify_track_id": "4Ip84YLNwIYVWU3u1tVqpt",
+      "album_name": "38 - Gruwelijk eng",
+      "album_year": 2017,
+      "popularity": 42
+    },
+    {
+      "title": "Vreemde dingen",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2024,
+      "spotify_track_url": "https://open.spotify.com/track/54zHNZbgxJeO30k6ppFoFl",
+      "spotify_track_id": "54zHNZbgxJeO30k6ppFoFl",
+      "album_name": "45 - Lekker eigenwijs",
+      "album_year": 2024,
+      "popularity": 41
+    },
+    {
+      "title": "ZiggZagg",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2023,
+      "spotify_track_url": "https://open.spotify.com/track/1wQDlVfKgSBZs4IVn1X2Fk",
+      "spotify_track_id": "1wQDlVfKgSBZs4IVn1X2Fk",
+      "album_name": "44 - Bij mij thuis",
+      "album_year": 2023,
+      "popularity": 41
+    },
+    {
+      "title": "Fitlala",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2018,
+      "spotify_track_url": "https://open.spotify.com/track/2l9CqXYEEVcualGqRC5Qxu",
+      "spotify_track_id": "2l9CqXYEEVcualGqRC5Qxu",
+      "album_name": "39 - Kom erbij!",
+      "album_year": 2018,
+      "popularity": 41
+    },
+    {
+      "title": "Schoolziek",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2024,
+      "spotify_track_url": "https://open.spotify.com/track/6Sfu19rB7tMIETQz0OXFRO",
+      "spotify_track_id": "6Sfu19rB7tMIETQz0OXFRO",
+      "album_name": "45 - Lekker eigenwijs",
+      "album_year": 2024,
+      "popularity": 40
+    },
+    {
+      "title": "Energie!",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2015,
+      "spotify_track_url": "https://open.spotify.com/track/1WhCbSlN6NAmDH30OFMqPI",
+      "spotify_track_id": "1WhCbSlN6NAmDH30OFMqPI",
+      "album_name": "36 - Raar maar waar",
+      "album_year": 2015,
+      "popularity": 40
+    },
+    {
+      "title": "Ik Heb Zo Waanzinnig Gedroomd",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1980,
+      "spotify_track_url": "https://open.spotify.com/track/4A7tc8ZBC1fsJaNErPnWCo",
+      "spotify_track_id": "4A7tc8ZBC1fsJaNErPnWCo",
+      "album_name": "1 - Kinderen voor Kinderen",
+      "album_year": 1980,
+      "popularity": 40
+    },
+    {
+      "title": "Alles op z'n tijd",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2024,
+      "spotify_track_url": "https://open.spotify.com/track/3hmwHcJP8IWupoDVb5AboH",
+      "spotify_track_id": "3hmwHcJP8IWupoDVb5AboH",
+      "album_name": "45 - Lekker eigenwijs",
+      "album_year": 2024,
+      "popularity": 39
+    },
+    {
+      "title": "Raar Maar Waar",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2015,
+      "spotify_track_url": "https://open.spotify.com/track/5EfepOs9FdEqA8KDsu0vRF",
+      "spotify_track_id": "5EfepOs9FdEqA8KDsu0vRF",
+      "album_name": "36 - Raar maar waar",
+      "album_year": 2015,
+      "popularity": 39
+    },
+    {
+      "title": "Hallo Wereld",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2012,
+      "spotify_track_url": "https://open.spotify.com/track/7K5wgPDmx455sAUdwKjay0",
+      "spotify_track_id": "7K5wgPDmx455sAUdwKjay0",
+      "album_name": "Hallo Wereld (33)",
+      "album_year": 2012,
+      "popularity": 39
+    },
+    {
+      "title": "Als De Lichtjes Doven",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1984,
+      "spotify_track_url": "https://open.spotify.com/track/6FY4WK3b8UkcBRHDvutdWt",
+      "spotify_track_id": "6FY4WK3b8UkcBRHDvutdWt",
+      "album_name": "5 - Kinderen voor Kinderen",
+      "album_year": 1984,
+      "popularity": 39
+    },
+    {
+      "title": "Sinterklaas Wil Dansen",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2009,
+      "spotify_track_url": "https://open.spotify.com/track/1qIDigOO3j7k7Di8V0d2FD",
+      "spotify_track_id": "1qIDigOO3j7k7Di8V0d2FD",
+      "album_name": "30 - Lachen is gezond",
+      "album_year": 2009,
+      "popularity": 38
+    },
+    {
+      "title": "Prikkels",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2024,
+      "spotify_track_url": "https://open.spotify.com/track/3MMB5eJQQL41nlfqSNCZ8A",
+      "spotify_track_id": "3MMB5eJQQL41nlfqSNCZ8A",
+      "album_name": "45 - Lekker eigenwijs",
+      "album_year": 2024,
+      "popularity": 37
+    },
+    {
+      "title": "Achtbaan",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2023,
+      "spotify_track_url": "https://open.spotify.com/track/7p3slO869Q0TbfG0tG7zGf",
+      "spotify_track_id": "7p3slO869Q0TbfG0tG7zGf",
+      "album_name": "44 - Bij mij thuis",
+      "album_year": 2023,
+      "popularity": 37
+    },
+    {
+      "title": "Oma's appeltaart",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2022,
+      "spotify_track_url": "https://open.spotify.com/track/7eOvbPnkm4CrzH07p0NdxI",
+      "spotify_track_id": "7eOvbPnkm4CrzH07p0NdxI",
+      "album_name": "43 - Gi-ga-groen",
+      "album_year": 2022,
+      "popularity": 37
+    },
+    {
+      "title": "Reis mee!",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2019,
+      "spotify_track_url": "https://open.spotify.com/track/2vINFq5NlL2zC247YSWXwt",
+      "spotify_track_id": "2vINFq5NlL2zC247YSWXwt",
+      "album_name": "40 - Reis mee!",
+      "album_year": 2019,
+      "popularity": 37
+    },
+    {
+      "title": "Feest!",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2014,
+      "spotify_track_url": "https://open.spotify.com/track/4o3KLPRhyra7f9bqnitBvJ",
+      "spotify_track_id": "4o3KLPRhyra7f9bqnitBvJ",
+      "album_name": "35 - Feest",
+      "album_year": 2014,
+      "popularity": 37
+    },
+    {
+      "title": "Favoriete Meester",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2012,
+      "spotify_track_url": "https://open.spotify.com/track/7sOfZtkR0CFbp0c8rZbO6e",
+      "spotify_track_id": "7sOfZtkR0CFbp0c8rZbO6e",
+      "album_name": "Hallo Wereld (33)",
+      "album_year": 2012,
+      "popularity": 37
+    },
+    {
+      "title": "1 uit een miljoen - NXT",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2025,
+      "spotify_track_url": "https://open.spotify.com/track/7vbR8rzOjyilzWLYPgs6qC",
+      "spotify_track_id": "7vbR8rzOjyilzWLYPgs6qC",
+      "album_name": "46 - Vol avontuur",
+      "album_year": 2025,
+      "popularity": 36
+    },
+    {
+      "title": "Carnaval",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2023,
+      "spotify_track_url": "https://open.spotify.com/track/7qcJADYLiTmaWKmgtgHNwe",
+      "spotify_track_id": "7qcJADYLiTmaWKmgtgHNwe",
+      "album_name": "44 - Bij mij thuis",
+      "album_year": 2023,
+      "popularity": 36
+    },
+    {
+      "title": "Vrienden met de monsters",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2022,
+      "spotify_track_url": "https://open.spotify.com/track/7fTn6zBh9gJHTcltdXff3j",
+      "spotify_track_id": "7fTn6zBh9gJHTcltdXff3j",
+      "album_name": "43 - Gi-ga-groen",
+      "album_year": 2022,
+      "popularity": 36
+    },
+    {
+      "title": "P.H.O.N.E. - NXT",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2025,
+      "spotify_track_url": "https://open.spotify.com/track/5EvBdNbykuIuwf7DnmYZ6J",
+      "spotify_track_id": "5EvBdNbykuIuwf7DnmYZ6J",
+      "album_name": "46 - Vol avontuur",
+      "album_year": 2025,
+      "popularity": 35
+    },
+    {
+      "title": "Gi-ga-groen",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2022,
+      "spotify_track_url": "https://open.spotify.com/track/5YGKeYGK6r9Wc0gvI3ycFS",
+      "spotify_track_id": "5YGKeYGK6r9Wc0gvI3ycFS",
+      "album_name": "43 - Gi-ga-groen",
+      "album_year": 2022,
+      "popularity": 35
+    },
+    {
+      "title": "Voor Altijd Jong!",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2016,
+      "spotify_track_url": "https://open.spotify.com/track/5CUyjQKT6G2yexTrboINLe",
+      "spotify_track_id": "5CUyjQKT6G2yexTrboINLe",
+      "album_name": "37 - Voor altijd jong!",
+      "album_year": 2016,
+      "popularity": 34
+    },
+    {
+      "title": "Als Ik De Baas Zou Zijn (Van Het Journaal)",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1984,
+      "spotify_track_url": "https://open.spotify.com/track/3RGCobGRwsqsyTCMZRNoQt",
+      "spotify_track_id": "3RGCobGRwsqsyTCMZRNoQt",
+      "album_name": "5 - Kinderen voor Kinderen",
+      "album_year": 1984,
+      "popularity": 34
+    },
+    {
+      "title": "Worden wat je wil",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2021,
+      "spotify_track_url": "https://open.spotify.com/track/2HiAppYLP03cXe0i9YzrJr",
+      "spotify_track_id": "2HiAppYLP03cXe0i9YzrJr",
+      "album_name": "42 - Worden wat je wil",
+      "album_year": 2021,
+      "popularity": 33
+    },
+    {
+      "title": "Het Tietenlied",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1996,
+      "spotify_track_url": "https://open.spotify.com/track/4T2mvqNOm67uvkCyfIHzPV",
+      "spotify_track_id": "4T2mvqNOm67uvkCyfIHzPV",
+      "album_name": "17 - Kinderen voor Kinderen",
+      "album_year": 1996,
+      "popularity": 33
+    },
+    {
+      "title": "Pyjamadag",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2017,
+      "spotify_track_url": "https://open.spotify.com/track/5qEV3BU1n5DAc9PmHk3liS",
+      "spotify_track_id": "5qEV3BU1n5DAc9PmHk3liS",
+      "album_name": "38 - Gruwelijk eng",
+      "album_year": 2017,
+      "popularity": 32
+    },
+    {
+      "title": "Ben Zo Benieuwd",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2005,
+      "spotify_track_url": "https://open.spotify.com/track/5lVP8Z9izLG1uXPpeGluT2",
+      "spotify_track_id": "5lVP8Z9izLG1uXPpeGluT2",
+      "album_name": "26 - Kinderen voor Kinderen",
+      "album_year": 2005,
+      "popularity": 32
+    },
+    {
+      "title": "Superkracht - NXT",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2024,
+      "spotify_track_url": "https://open.spotify.com/track/1ffTEwhW10YGHmLUZl9FcR",
+      "spotify_track_id": "1ffTEwhW10YGHmLUZl9FcR",
+      "album_name": "45 - Lekker eigenwijs",
+      "album_year": 2024,
+      "popularity": 31
+    },
+    {
+      "title": "Gadverdamme",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2021,
+      "spotify_track_url": "https://open.spotify.com/track/1zGXodOoPob8uqPPraPg1d",
+      "spotify_track_id": "1zGXodOoPob8uqPPraPg1d",
+      "album_name": "42 - Worden wat je wil",
+      "album_year": 2021,
+      "popularity": 31
+    },
+    {
+      "title": "Kliekjesdag",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2020,
+      "spotify_track_url": "https://open.spotify.com/track/3ZBAWASFvAOBsPTC6UeLQj",
+      "spotify_track_id": "3ZBAWASFvAOBsPTC6UeLQj",
+      "album_name": "41 - En toen?",
+      "album_year": 2020,
+      "popularity": 31
+    },
+    {
+      "title": "Eigen Tempo",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2019,
+      "spotify_track_url": "https://open.spotify.com/track/6Ae0Kc5HBKRCh7RU919aB5",
+      "spotify_track_id": "6Ae0Kc5HBKRCh7RU919aB5",
+      "album_name": "40 - Reis mee!",
+      "album_year": 2019,
+      "popularity": 31
+    },
+    {
+      "title": "Zwemdiploma, ABC",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2019,
+      "spotify_track_url": "https://open.spotify.com/track/6wRPs8jxATkJG4hhpZHCJi",
+      "spotify_track_id": "6wRPs8jxATkJG4hhpZHCJi",
+      "album_name": "40 - Reis mee!",
+      "album_year": 2019,
+      "popularity": 31
+    },
+    {
+      "title": "Red De Bij",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2018,
+      "spotify_track_url": "https://open.spotify.com/track/0A8jghOfjpB2kosuvy9Jwb",
+      "spotify_track_id": "0A8jghOfjpB2kosuvy9Jwb",
+      "album_name": "39 - Kom erbij!",
+      "album_year": 2018,
+      "popularity": 31
+    },
+    {
+      "title": "Bij mij thuis",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2023,
+      "spotify_track_url": "https://open.spotify.com/track/7f9QzNTWOau5CmLMUujABm",
+      "spotify_track_id": "7f9QzNTWOau5CmLMUujABm",
+      "album_name": "44 - Bij mij thuis",
+      "album_year": 2023,
+      "popularity": 30
+    },
+    {
+      "title": "Hoogbegaafd",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2023,
+      "spotify_track_url": "https://open.spotify.com/track/7kMU6QAAOl8VwAnelWkXOV",
+      "spotify_track_id": "7kMU6QAAOl8VwAnelWkXOV",
+      "album_name": "44 - Bij mij thuis",
+      "album_year": 2023,
+      "popularity": 30
+    },
+    {
+      "title": "Hand in hand",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2020,
+      "spotify_track_url": "https://open.spotify.com/track/7plkIS3Kj5nn5lmH3YF90f",
+      "spotify_track_id": "7plkIS3Kj5nn5lmH3YF90f",
+      "album_name": "41 - En toen?",
+      "album_year": 2020,
+      "popularity": 30
+    },
+    {
+      "title": "Powercheck",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2019,
+      "spotify_track_url": "https://open.spotify.com/track/4KhX5qA3qhKyRT2gaxjnw9",
+      "spotify_track_id": "4KhX5qA3qhKyRT2gaxjnw9",
+      "album_name": "40 - Reis mee!",
+      "album_year": 2019,
+      "popularity": 30
+    },
+    {
+      "title": "Kom Erbij!",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2018,
+      "spotify_track_url": "https://open.spotify.com/track/2NdQNrboS2RJJ0hN7qpnjo",
+      "spotify_track_id": "2NdQNrboS2RJJ0hN7qpnjo",
+      "album_name": "39 - Kom erbij!",
+      "album_year": 2018,
+      "popularity": 30
+    },
+    {
+      "title": "Ik Wil Naar Mars",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2017,
+      "spotify_track_url": "https://open.spotify.com/track/7thTZT9uaT2yVGYIgj8R0Q",
+      "spotify_track_id": "7thTZT9uaT2yVGYIgj8R0Q",
+      "album_name": "38 - Gruwelijk eng",
+      "album_year": 2017,
+      "popularity": 30
+    },
+    {
+      "title": "Kip, Patat En Appelmoes",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1989,
+      "spotify_track_url": "https://open.spotify.com/track/6c3XEz5BgZELAkGBO4A67U",
+      "spotify_track_id": "6c3XEz5BgZELAkGBO4A67U",
+      "album_name": "10 - Kinderen voor Kinderen",
+      "album_year": 1989,
+      "popularity": 30
+    },
+    {
+      "title": "Wakker worden",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2023,
+      "spotify_track_url": "https://open.spotify.com/track/7wUnrxAX4B3brEwasYPHYw",
+      "spotify_track_id": "7wUnrxAX4B3brEwasYPHYw",
+      "album_name": "44 - Bij mij thuis",
+      "album_year": 2023,
+      "popularity": 29
+    },
+    {
+      "title": "Elke dag jarig",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2020,
+      "spotify_track_url": "https://open.spotify.com/track/42OeDKQbAx0QH5zR8cKyas",
+      "spotify_track_id": "42OeDKQbAx0QH5zR8cKyas",
+      "album_name": "41 - En toen?",
+      "album_year": 2020,
+      "popularity": 29
+    },
+    {
+      "title": "De Tijger",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2018,
+      "spotify_track_url": "https://open.spotify.com/track/7sak1mc2RJZxQVfweiI3JF",
+      "spotify_track_id": "7sak1mc2RJZxQVfweiI3JF",
+      "album_name": "39 - Kom erbij!",
+      "album_year": 2018,
+      "popularity": 29
+    },
+    {
+      "title": "Stamp De Tafels",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2017,
+      "spotify_track_url": "https://open.spotify.com/track/3BhlcJidjpT5ISHra5UYci",
+      "spotify_track_id": "3BhlcJidjpT5ISHra5UYci",
+      "album_name": "38 - Gruwelijk eng",
+      "album_year": 2017,
+      "popularity": 29
+    },
+    {
+      "title": "Doe De Kanga",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2014,
+      "spotify_track_url": "https://open.spotify.com/track/6fld8YwpKUkGwl92hojZBv",
+      "spotify_track_id": "6fld8YwpKUkGwl92hojZBv",
+      "album_name": "35 - Feest",
+      "album_year": 2014,
+      "popularity": 29
+    },
+    {
+      "title": "Vrijheid",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2024,
+      "spotify_track_url": "https://open.spotify.com/track/4EZn5dDzPZCDlWr3qtZ48b",
+      "spotify_track_id": "4EZn5dDzPZCDlWr3qtZ48b",
+      "album_name": "45 - Lekker eigenwijs",
+      "album_year": 2024,
+      "popularity": 28
+    },
+    {
+      "title": "Onzichtbaar",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2023,
+      "spotify_track_url": "https://open.spotify.com/track/3JMAZA3XqpwAjEr8PRSkeA",
+      "spotify_track_id": "3JMAZA3XqpwAjEr8PRSkeA",
+      "album_name": "44 - Bij mij thuis",
+      "album_year": 2023,
+      "popularity": 28
+    },
+    {
+      "title": "Kom maar bij mij",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2023,
+      "spotify_track_url": "https://open.spotify.com/track/6QLCoTKr0tIZn0WLiRIHJI",
+      "spotify_track_id": "6QLCoTKr0tIZn0WLiRIHJI",
+      "album_name": "44 - Bij mij thuis",
+      "album_year": 2023,
+      "popularity": 28
+    },
+    {
+      "title": "Dromenrijk",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2022,
+      "spotify_track_url": "https://open.spotify.com/track/3peo1jNxXjsK93iXRiuZFR",
+      "spotify_track_id": "3peo1jNxXjsK93iXRiuZFR",
+      "album_name": "43 - Gi-ga-groen",
+      "album_year": 2022,
+      "popularity": 28
+    },
+    {
+      "title": "Avond4daagse",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2022,
+      "spotify_track_url": "https://open.spotify.com/track/129LXgmOGXfik3ZFnQUaMV",
+      "spotify_track_id": "129LXgmOGXfik3ZFnQUaMV",
+      "album_name": "43 - Gi-ga-groen",
+      "album_year": 2022,
+      "popularity": 28
+    },
+    {
+      "title": "Favoriete knuffel",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2022,
+      "spotify_track_url": "https://open.spotify.com/track/4jl0Y6NggTUUwKJPcwOC9D",
+      "spotify_track_id": "4jl0Y6NggTUUwKJPcwOC9D",
+      "album_name": "43 - Gi-ga-groen",
+      "album_year": 2022,
+      "popularity": 28
+    },
+    {
+      "title": "Wereldreis",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2019,
+      "spotify_track_url": "https://open.spotify.com/track/0vMKH0xbk2s7C2AYe740fT",
+      "spotify_track_id": "0vMKH0xbk2s7C2AYe740fT",
+      "album_name": "40 - Reis mee!",
+      "album_year": 2019,
+      "popularity": 28
+    },
+    {
+      "title": "Lentekriebels",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2018,
+      "spotify_track_url": "https://open.spotify.com/track/0LZLl5OiwYmMOFTVLK0ADD",
+      "spotify_track_id": "0LZLl5OiwYmMOFTVLK0ADD",
+      "album_name": "39 - Kom erbij!",
+      "album_year": 2018,
+      "popularity": 28
+    },
+    {
+      "title": "Hier word ik gelukkig van",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2017,
+      "spotify_track_url": "https://open.spotify.com/track/3i9jpDW01V2zoXdnRf3crk",
+      "spotify_track_id": "3i9jpDW01V2zoXdnRf3crk",
+      "album_name": "38 - Gruwelijk eng",
+      "album_year": 2017,
+      "popularity": 28
+    },
+    {
+      "title": "Waarom Moet Ik Gaan?",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2015,
+      "spotify_track_url": "https://open.spotify.com/track/1s2o1ij1O7xNAlfhwOBVBo",
+      "spotify_track_id": "1s2o1ij1O7xNAlfhwOBVBo",
+      "album_name": "36 - Raar maar waar",
+      "album_year": 2015,
+      "popularity": 28
+    },
+    {
+      "title": "Vakantie in de tuin",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2023,
+      "spotify_track_url": "https://open.spotify.com/track/3HWhFd2t1TL0EXvwhU9qJA",
+      "spotify_track_id": "3HWhFd2t1TL0EXvwhU9qJA",
+      "album_name": "44 - Bij mij thuis",
+      "album_year": 2023,
+      "popularity": 27
+    },
+    {
+      "title": "Liefdeskriebels",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2022,
+      "spotify_track_url": "https://open.spotify.com/track/2mVCzLsG1QUTQACBwGe42M",
+      "spotify_track_id": "2mVCzLsG1QUTQACBwGe42M",
+      "album_name": "43 - Gi-ga-groen",
+      "album_year": 2022,
+      "popularity": 27
+    },
+    {
+      "title": "Nieuwe school",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2022,
+      "spotify_track_url": "https://open.spotify.com/track/1K9fhQKzcrsu3lt7B2edxk",
+      "spotify_track_id": "1K9fhQKzcrsu3lt7B2edxk",
+      "album_name": "43 - Gi-ga-groen",
+      "album_year": 2022,
+      "popularity": 27
+    },
+    {
+      "title": "Popster",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2022,
+      "spotify_track_url": "https://open.spotify.com/track/5ATDNmNThqROjXUvTg2BzO",
+      "spotify_track_id": "5ATDNmNThqROjXUvTg2BzO",
+      "album_name": "43 - Gi-ga-groen",
+      "album_year": 2022,
+      "popularity": 27
+    },
+    {
+      "title": "Andersom",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2020,
+      "spotify_track_url": "https://open.spotify.com/track/7luQdidDzQ6DaNBpD4uQ2J",
+      "spotify_track_id": "7luQdidDzQ6DaNBpD4uQ2J",
+      "album_name": "41 - En toen?",
+      "album_year": 2020,
+      "popularity": 27
+    },
+    {
+      "title": "Ik durf alles",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2020,
+      "spotify_track_url": "https://open.spotify.com/track/3uVwlgv0fPTEN1AAcJYPeG",
+      "spotify_track_id": "3uVwlgv0fPTEN1AAcJYPeG",
+      "album_name": "41 - En toen?",
+      "album_year": 2020,
+      "popularity": 27
+    },
+    {
+      "title": "Stiekem snoepen",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2019,
+      "spotify_track_url": "https://open.spotify.com/track/6qggJ3pNbBWnu7adie2f8V",
+      "spotify_track_id": "6qggJ3pNbBWnu7adie2f8V",
+      "album_name": "40 - Reis mee!",
+      "album_year": 2019,
+      "popularity": 27
+    },
+    {
+      "title": "Oeps!",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2019,
+      "spotify_track_url": "https://open.spotify.com/track/70h6fS2JSDS8UAhmijEj2y",
+      "spotify_track_id": "70h6fS2JSDS8UAhmijEj2y",
+      "album_name": "40 - Reis mee!",
+      "album_year": 2019,
+      "popularity": 27
+    },
+    {
+      "title": "Plastic Soep",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2017,
+      "spotify_track_url": "https://open.spotify.com/track/7EgTVTWA65znn4ejOu15ht",
+      "spotify_track_id": "7EgTVTWA65znn4ejOu15ht",
+      "album_name": "38 - Gruwelijk eng",
+      "album_year": 2017,
+      "popularity": 27
+    },
+    {
+      "title": "Klaar Voor De Start",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2013,
+      "spotify_track_url": "https://open.spotify.com/track/66UxXtvHm8hb6SQpFskEu3",
+      "spotify_track_id": "66UxXtvHm8hb6SQpFskEu3",
+      "album_name": "34 - Klaar voor de start",
+      "album_year": 2013,
+      "popularity": 27
+    },
+    {
+      "title": "Zo Bijzonder",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2011,
+      "spotify_track_url": "https://open.spotify.com/track/2KwtqKaYidoATrkJ9pT1jC",
+      "spotify_track_id": "2KwtqKaYidoATrkJ9pT1jC",
+      "album_name": "32 - Zo bijzonder",
+      "album_year": 2011,
+      "popularity": 27
+    },
+    {
+      "title": "Boekenwurm",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2011,
+      "spotify_track_url": "https://open.spotify.com/track/1CWs7qFigiVNRNhrkB62Vi",
+      "spotify_track_id": "1CWs7qFigiVNRNhrkB62Vi",
+      "album_name": "32 - Zo bijzonder",
+      "album_year": 2011,
+      "popularity": 27
+    },
+    {
+      "title": "Papegaai",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2012,
+      "spotify_track_url": "https://open.spotify.com/track/4PdLvrHcVSMUxuxr2apuU3",
+      "spotify_track_id": "4PdLvrHcVSMUxuxr2apuU3",
+      "album_name": "Hallo Wereld (33)",
+      "album_year": 2012,
+      "popularity": 27
+    },
+    {
+      "title": "Oogje op jou - NXT",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2024,
+      "spotify_track_url": "https://open.spotify.com/track/0fznBJ5NlilSitK6ODKdhQ",
+      "spotify_track_id": "0fznBJ5NlilSitK6ODKdhQ",
+      "album_name": "45 - Lekker eigenwijs",
+      "album_year": 2024,
+      "popularity": 26
+    },
+    {
+      "title": "Zo jaloers",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2023,
+      "spotify_track_url": "https://open.spotify.com/track/6i6cRDAH2Nh23DzE7M5Euf",
+      "spotify_track_id": "6i6cRDAH2Nh23DzE7M5Euf",
+      "album_name": "44 - Bij mij thuis",
+      "album_year": 2023,
+      "popularity": 26
+    },
+    {
+      "title": "Offline",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2023,
+      "spotify_track_url": "https://open.spotify.com/track/2Vg8app4roWQTKY7Tpb1dq",
+      "spotify_track_id": "2Vg8app4roWQTKY7Tpb1dq",
+      "album_name": "44 - Bij mij thuis",
+      "album_year": 2023,
+      "popularity": 26
+    },
+    {
+      "title": "De baas",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2022,
+      "spotify_track_url": "https://open.spotify.com/track/5kudQTiQLIKYyyjXYR1PVx",
+      "spotify_track_id": "5kudQTiQLIKYyyjXYR1PVx",
+      "album_name": "43 - Gi-ga-groen",
+      "album_year": 2022,
+      "popularity": 26
+    },
+    {
+      "title": "Thuis op safari",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2021,
+      "spotify_track_url": "https://open.spotify.com/track/6lj0dW7W6mGLy49Xwnb3jZ",
+      "spotify_track_id": "6lj0dW7W6mGLy49Xwnb3jZ",
+      "album_name": "42 - Worden wat je wil",
+      "album_year": 2021,
+      "popularity": 26
+    },
+    {
+      "title": "Tandarts",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2016,
+      "spotify_track_url": "https://open.spotify.com/track/7djNJmbbE28uq8tbUq2neQ",
+      "spotify_track_id": "7djNJmbbE28uq8tbUq2neQ",
+      "album_name": "37 - Voor altijd jong!",
+      "album_year": 2016,
+      "popularity": 26
+    },
+    {
+      "title": "Vakantie",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2014,
+      "spotify_track_url": "https://open.spotify.com/track/3kgYP4JJnQvSBg3glADbwa",
+      "spotify_track_id": "3kgYP4JJnQvSBg3glADbwa",
+      "album_name": "35 - Feest",
+      "album_year": 2014,
+      "popularity": 26
+    },
+    {
+      "title": "Spotlight, Camera, Microfoon",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2006,
+      "spotify_track_url": "https://open.spotify.com/track/6qzfF2BTjeLAwKF4zHsIjw",
+      "spotify_track_id": "6qzfF2BTjeLAwKF4zHsIjw",
+      "album_name": "27 - De coolste DJ",
+      "album_year": 2006,
+      "popularity": 26
+    },
+    {
+      "title": "Hé, Meneer De Kerstman",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1995,
+      "spotify_track_url": "https://open.spotify.com/track/2SSKfBkAzFQVJNdnnY17sk",
+      "spotify_track_id": "2SSKfBkAzFQVJNdnnY17sk",
+      "album_name": "16 - Kinderen voor Kinderen",
+      "album_year": 1995,
+      "popularity": 26
+    },
+    {
+      "title": "Naar Bed",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1990,
+      "spotify_track_url": "https://open.spotify.com/track/4vpa06fZ4xONx9FjT2AEyB",
+      "spotify_track_id": "4vpa06fZ4xONx9FjT2AEyB",
+      "album_name": "11 - Kinderen voor Kinderen",
+      "album_year": 1990,
+      "popularity": 26
+    },
+    {
+      "title": "FitTop10",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2022,
+      "spotify_track_url": "https://open.spotify.com/track/6AGpf3mVy88s7lCMZAOOVx",
+      "spotify_track_id": "6AGpf3mVy88s7lCMZAOOVx",
+      "album_name": "43 - Gi-ga-groen",
+      "album_year": 2022,
+      "popularity": 25
+    },
+    {
+      "title": "Te laat",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2021,
+      "spotify_track_url": "https://open.spotify.com/track/3HMIp7yhZzAaYn8YWXvEoC",
+      "spotify_track_id": "3HMIp7yhZzAaYn8YWXvEoC",
+      "album_name": "42 - Worden wat je wil",
+      "album_year": 2021,
+      "popularity": 25
+    },
+    {
+      "title": "Smoesje klaar",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2021,
+      "spotify_track_url": "https://open.spotify.com/track/2eCpzeLV8NEPd76PPpJH6Z",
+      "spotify_track_id": "2eCpzeLV8NEPd76PPpJH6Z",
+      "album_name": "42 - Worden wat je wil",
+      "album_year": 2021,
+      "popularity": 25
+    },
+    {
+      "title": "Super voetbalfan",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2019,
+      "spotify_track_url": "https://open.spotify.com/track/7iL5Fi9tKFUHoiEFYOIOIF",
+      "spotify_track_id": "7iL5Fi9tKFUHoiEFYOIOIF",
+      "album_name": "40 - Reis mee!",
+      "album_year": 2019,
+      "popularity": 25
+    },
+    {
+      "title": "Al 40 jaar!",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2019,
+      "spotify_track_url": "https://open.spotify.com/track/1y8F9IgdE2MQvq2wwIt5ly",
+      "spotify_track_id": "1y8F9IgdE2MQvq2wwIt5ly",
+      "album_name": "40 - Reis mee!",
+      "album_year": 2019,
+      "popularity": 25
+    },
+    {
+      "title": "Dan Rock Ik Toch Alleen",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2017,
+      "spotify_track_url": "https://open.spotify.com/track/3LaT9IGI7dbnnCG6jWCpKW",
+      "spotify_track_id": "3LaT9IGI7dbnnCG6jWCpKW",
+      "album_name": "38 - Gruwelijk eng",
+      "album_year": 2017,
+      "popularity": 25
+    },
+    {
+      "title": "Dans alleen",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2021,
+      "spotify_track_url": "https://open.spotify.com/track/4AQ2ipPTcvK9IcHjCtdc8g",
+      "spotify_track_id": "4AQ2ipPTcvK9IcHjCtdc8g",
+      "album_name": "42 - Worden wat je wil",
+      "album_year": 2021,
+      "popularity": 24
+    },
+    {
+      "title": "Zij aan zij",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2021,
+      "spotify_track_url": "https://open.spotify.com/track/4qza2NOrRThqKlWvx6EMtD",
+      "spotify_track_id": "4qza2NOrRThqKlWvx6EMtD",
+      "album_name": "42 - Worden wat je wil",
+      "album_year": 2021,
+      "popularity": 24
+    },
+    {
+      "title": "En toen?",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2020,
+      "spotify_track_url": "https://open.spotify.com/track/5eoxG48AqFGAl1ezXNLc8D",
+      "spotify_track_id": "5eoxG48AqFGAl1ezXNLc8D",
+      "album_name": "41 - En toen?",
+      "album_year": 2020,
+      "popularity": 24
+    },
+    {
+      "title": "Dierenfreak",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2020,
+      "spotify_track_url": "https://open.spotify.com/track/6berhCCP9crByfYBQHUBA8",
+      "spotify_track_id": "6berhCCP9crByfYBQHUBA8",
+      "album_name": "41 - En toen?",
+      "album_year": 2020,
+      "popularity": 24
+    },
+    {
+      "title": "Sorry",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2019,
+      "spotify_track_url": "https://open.spotify.com/track/268oyufwJo9r7eDObXNehb",
+      "spotify_track_id": "268oyufwJo9r7eDObXNehb",
+      "album_name": "40 - Reis mee!",
+      "album_year": 2019,
+      "popularity": 24
+    },
+    {
+      "title": "Kinderogen",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2019,
+      "spotify_track_url": "https://open.spotify.com/track/7nFJ8Fup6h89rQBm8PvPsD",
+      "spotify_track_id": "7nFJ8Fup6h89rQBm8PvPsD",
+      "album_name": "40 - Reis mee!",
+      "album_year": 2019,
+      "popularity": 24
+    },
+    {
+      "title": "Verhuizen",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2018,
+      "spotify_track_url": "https://open.spotify.com/track/6oXolJCX17UYq17RvW09L9",
+      "spotify_track_id": "6oXolJCX17UYq17RvW09L9",
+      "album_name": "39 - Kom erbij!",
+      "album_year": 2018,
+      "popularity": 24
+    },
+    {
+      "title": "Hollandse Pot 2.0",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2017,
+      "spotify_track_url": "https://open.spotify.com/track/02O8kFegag7ROAOh86yCuv",
+      "spotify_track_id": "02O8kFegag7ROAOh86yCuv",
+      "album_name": "38 - Gruwelijk eng",
+      "album_year": 2017,
+      "popularity": 24
+    },
+    {
+      "title": "Gympentic",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2012,
+      "spotify_track_url": "https://open.spotify.com/track/5xL3dly4OceiFlVnV2T9d0",
+      "spotify_track_id": "5xL3dly4OceiFlVnV2T9d0",
+      "album_name": "Hallo Wereld (33)",
+      "album_year": 2012,
+      "popularity": 24
+    },
+    {
+      "title": "Ik ben een gamer",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2020,
+      "spotify_track_url": "https://open.spotify.com/track/5RaQKvQQUjMUz3fJuRi2RB",
+      "spotify_track_id": "5RaQKvQQUjMUz3fJuRi2RB",
+      "album_name": "41 - En toen?",
+      "album_year": 2020,
+      "popularity": 23
+    },
+    {
+      "title": "Moeilijke vragen",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2020,
+      "spotify_track_url": "https://open.spotify.com/track/1tjtE7lMVWuE2P3cxfZ2JV",
+      "spotify_track_id": "1tjtE7lMVWuE2P3cxfZ2JV",
+      "album_name": "41 - En toen?",
+      "album_year": 2020,
+      "popularity": 23
+    },
+    {
+      "title": "Een Beetje Bang",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2016,
+      "spotify_track_url": "https://open.spotify.com/track/6UdfBrjSZuLWprJz0DN64w",
+      "spotify_track_id": "6UdfBrjSZuLWprJz0DN64w",
+      "album_name": "37 - Voor altijd jong!",
+      "album_year": 2016,
+      "popularity": 23
+    },
+    {
+      "title": "De Coolste DJ",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2006,
+      "spotify_track_url": "https://open.spotify.com/track/4Ukb4TZQ4rmqhMa4qent9f",
+      "spotify_track_id": "4Ukb4TZQ4rmqhMa4qent9f",
+      "album_name": "27 - De coolste DJ",
+      "album_year": 2006,
+      "popularity": 23
+    },
+    {
+      "title": "Allemaal Kabaal",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1990,
+      "spotify_track_url": "https://open.spotify.com/track/3VwVPqL8LNG8CLcPlfC9ZA",
+      "spotify_track_id": "3VwVPqL8LNG8CLcPlfC9ZA",
+      "album_name": "11 - Kinderen voor Kinderen",
+      "album_year": 1990,
+      "popularity": 23
+    },
+    {
+      "title": "Een Krokodil Als Huisdier",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1988,
+      "spotify_track_url": "https://open.spotify.com/track/4aRFQVBGKVwZB1eMpu8lVJ",
+      "spotify_track_id": "4aRFQVBGKVwZB1eMpu8lVJ",
+      "album_name": "9 - Kinderen voor Kinderen",
+      "album_year": 1988,
+      "popularity": 23
+    },
+    {
+      "title": "Brugsmurfblues",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1988,
+      "spotify_track_url": "https://open.spotify.com/track/0P3JcrVKeNr8lbzSLueH4i",
+      "spotify_track_id": "0P3JcrVKeNr8lbzSLueH4i",
+      "album_name": "9 - Kinderen voor Kinderen",
+      "album_year": 1988,
+      "popularity": 23
+    },
+    {
+      "title": "Kriebeltrui",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1984,
+      "spotify_track_url": "https://open.spotify.com/track/2EJl41p0t7stIkDdZSEq4E",
+      "spotify_track_id": "2EJl41p0t7stIkDdZSEq4E",
+      "album_name": "5 - Kinderen voor Kinderen",
+      "album_year": 1984,
+      "popularity": 23
+    },
+    {
+      "title": "Kom Je Strakjes Bij Me Spelen",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1980,
+      "spotify_track_url": "https://open.spotify.com/track/7LT4hqgxFMwQ06cUIjRp2G",
+      "spotify_track_id": "7LT4hqgxFMwQ06cUIjRp2G",
+      "album_name": "1 - Kinderen voor Kinderen",
+      "album_year": 1980,
+      "popularity": 23
+    },
+    {
+      "title": "Je hoeft niet alleen te zijn",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2020,
+      "spotify_track_url": "https://open.spotify.com/track/1yFSy3Hf437f7o4GlJBOkJ",
+      "spotify_track_id": "1yFSy3Hf437f7o4GlJBOkJ",
+      "album_name": "41 - En toen?",
+      "album_year": 2020,
+      "popularity": 22
+    },
+    {
+      "title": "Zie je wel!",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2020,
+      "spotify_track_url": "https://open.spotify.com/track/1aSxBd2MjWMNXPojbOonYP",
+      "spotify_track_id": "1aSxBd2MjWMNXPojbOonYP",
+      "album_name": "41 - En toen?",
+      "album_year": 2020,
+      "popularity": 22
+    },
+    {
+      "title": "Ineens is alles anders",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2020,
+      "spotify_track_url": "https://open.spotify.com/track/016ZvrL0r12DQeu01PKy3J",
+      "spotify_track_id": "016ZvrL0r12DQeu01PKy3J",
+      "album_name": "41 - En toen?",
+      "album_year": 2020,
+      "popularity": 22
+    },
+    {
+      "title": "Naar School - Vakantie Voorbij",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2017,
+      "spotify_track_url": "https://open.spotify.com/track/2iHvmCuX7jIE1MFILzDG3K",
+      "spotify_track_id": "2iHvmCuX7jIE1MFILzDG3K",
+      "album_name": "38 - Gruwelijk eng",
+      "album_year": 2017,
+      "popularity": 22
+    },
+    {
+      "title": "Rock Het Schoolplein",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2011,
+      "spotify_track_url": "https://open.spotify.com/track/6zcb9HmO5gMY2jmLeRRq66",
+      "spotify_track_id": "6zcb9HmO5gMY2jmLeRRq66",
+      "album_name": "32 - Zo bijzonder",
+      "album_year": 2011,
+      "popularity": 22
+    },
+    {
+      "title": "Soms Denk Ik Dat Ik Alles Kan",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2006,
+      "spotify_track_url": "https://open.spotify.com/track/1ZtS0CfD6qKLPRvTB6WMAz",
+      "spotify_track_id": "1ZtS0CfD6qKLPRvTB6WMAz",
+      "album_name": "27 - De coolste DJ",
+      "album_year": 2006,
+      "popularity": 22
+    },
+    {
+      "title": "Drummen In Een Band",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2006,
+      "spotify_track_url": "https://open.spotify.com/track/5RYNoJeZSxSDMvCv03UJ9C",
+      "spotify_track_id": "5RYNoJeZSxSDMvCv03UJ9C",
+      "album_name": "27 - De coolste DJ",
+      "album_year": 2006,
+      "popularity": 22
+    },
+    {
+      "title": "Stuntelkampioen",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1989,
+      "spotify_track_url": "https://open.spotify.com/track/6qMrkbrk3B1DS8LvxO4c8e",
+      "spotify_track_id": "6qMrkbrk3B1DS8LvxO4c8e",
+      "album_name": "10 - Kinderen voor Kinderen",
+      "album_year": 1989,
+      "popularity": 22
+    },
+    {
+      "title": "Help de walvis",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2021,
+      "spotify_track_url": "https://open.spotify.com/track/1gOfHVaA0zE1yBhHgXInpd",
+      "spotify_track_id": "1gOfHVaA0zE1yBhHgXInpd",
+      "album_name": "42 - Worden wat je wil",
+      "album_year": 2021,
+      "popularity": 21
+    },
+    {
+      "title": "Zomertroep",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2021,
+      "spotify_track_url": "https://open.spotify.com/track/3TJYjXfn8fLR4P7q7FOu39",
+      "spotify_track_id": "3TJYjXfn8fLR4P7q7FOu39",
+      "album_name": "42 - Worden wat je wil",
+      "album_year": 2021,
+      "popularity": 21
+    },
+    {
+      "title": "Kind zijn",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2021,
+      "spotify_track_url": "https://open.spotify.com/track/16Ok0nBnqnuDnh7CMbOkqC",
+      "spotify_track_id": "16Ok0nBnqnuDnh7CMbOkqC",
+      "album_name": "42 - Worden wat je wil",
+      "album_year": 2021,
+      "popularity": 21
+    },
+    {
+      "title": "Nou En?",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2006,
+      "spotify_track_url": "https://open.spotify.com/track/2nYu9MCJIcXGT3uKVAUi0r",
+      "spotify_track_id": "2nYu9MCJIcXGT3uKVAUi0r",
+      "album_name": "27 - De coolste DJ",
+      "album_year": 2006,
+      "popularity": 21
+    },
+    {
+      "title": "Spreekbeurt",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2006,
+      "spotify_track_url": "https://open.spotify.com/track/1XCcrEAiLB5OUQtAY0Ezim",
+      "spotify_track_id": "1XCcrEAiLB5OUQtAY0Ezim",
+      "album_name": "27 - De coolste DJ",
+      "album_year": 2006,
+      "popularity": 21
+    },
+    {
+      "title": "Poppenkast",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2006,
+      "spotify_track_url": "https://open.spotify.com/track/2xORxusOXMxczt9cVUICA4",
+      "spotify_track_id": "2xORxusOXMxczt9cVUICA4",
+      "album_name": "27 - De coolste DJ",
+      "album_year": 2006,
+      "popularity": 21
+    },
+    {
+      "title": "Twee Dromen",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2006,
+      "spotify_track_url": "https://open.spotify.com/track/5DTcTZFzAgWOWpmAeDa7OQ",
+      "spotify_track_id": "5DTcTZFzAgWOWpmAeDa7OQ",
+      "album_name": "27 - De coolste DJ",
+      "album_year": 2006,
+      "popularity": 21
+    },
+    {
+      "title": "Hee, Hallo!",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2006,
+      "spotify_track_url": "https://open.spotify.com/track/1G7vZ12A86qot7SoldOLlU",
+      "spotify_track_id": "1G7vZ12A86qot7SoldOLlU",
+      "album_name": "27 - De coolste DJ",
+      "album_year": 2006,
+      "popularity": 21
+    },
+    {
+      "title": "Afwas-Potpourri",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1984,
+      "spotify_track_url": "https://open.spotify.com/track/6GEjdI8v87ay5ChGiN1EIU",
+      "spotify_track_id": "6GEjdI8v87ay5ChGiN1EIU",
+      "album_name": "5 - Kinderen voor Kinderen",
+      "album_year": 1984,
+      "popularity": 21
+    },
+    {
+      "title": "Leef Met Elkaar",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2015,
+      "spotify_track_url": "https://open.spotify.com/track/2kKpwODZsp3IGwJ0c9DznD",
+      "spotify_track_id": "2kKpwODZsp3IGwJ0c9DznD",
+      "album_name": "36 - Raar maar waar",
+      "album_year": 2015,
+      "popularity": 20
+    },
+    {
+      "title": "Bewegen Is Gezond",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2013,
+      "spotify_track_url": "https://open.spotify.com/track/30gLs23fV9GO2HV3hUhgZZ",
+      "spotify_track_id": "30gLs23fV9GO2HV3hUhgZZ",
+      "album_name": "De Leukste Liedjes Van De Laatste 5 Jaar",
+      "album_year": 2013,
+      "popularity": 20
+    },
+    {
+      "title": "Lachen Is Gezond",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2009,
+      "spotify_track_url": "https://open.spotify.com/track/79Ds3vQ6WRClv8zdkj2404",
+      "spotify_track_id": "79Ds3vQ6WRClv8zdkj2404",
+      "album_name": "30 - Lachen is gezond",
+      "album_year": 2009,
+      "popularity": 20
+    },
+    {
+      "title": "Ik Hou Van Hard",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1994,
+      "spotify_track_url": "https://open.spotify.com/track/1dR61mVRVDJPhIy5v78DbE",
+      "spotify_track_id": "1dR61mVRVDJPhIy5v78DbE",
+      "album_name": "15 Kinderen voor Kinderen",
+      "album_year": 1994,
+      "popularity": 20
+    },
+    {
+      "title": "Groen",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1993,
+      "spotify_track_url": "https://open.spotify.com/track/5hYcbvijr0KWrivt9g35eB",
+      "spotify_track_id": "5hYcbvijr0KWrivt9g35eB",
+      "album_name": "14 - Kinderen voor Kinderen",
+      "album_year": 1993,
+      "popularity": 20
+    },
+    {
+      "title": "Verliefdheid Is Rampzalig",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1990,
+      "spotify_track_url": "https://open.spotify.com/track/7BpFJRffkkmqnCDFjqQZdh",
+      "spotify_track_id": "7BpFJRffkkmqnCDFjqQZdh",
+      "album_name": "11 - Kinderen voor Kinderen",
+      "album_year": 1990,
+      "popularity": 20
+    },
+    {
+      "title": "Jongensdingen, Meidendingen",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2015,
+      "spotify_track_url": "https://open.spotify.com/track/4s28KJd3oTOrOYWqiT5fo3",
+      "spotify_track_id": "4s28KJd3oTOrOYWqiT5fo3",
+      "album_name": "36 - Raar maar waar",
+      "album_year": 2015,
+      "popularity": 19
+    },
+    {
+      "title": "Een Doodgewone Jongen (Met ADHD)",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2004,
+      "spotify_track_url": "https://open.spotify.com/track/0ZSUGcmlbJrtLNvFSvd6da",
+      "spotify_track_id": "0ZSUGcmlbJrtLNvFSvd6da",
+      "album_name": "25 - Kinderen voor Kinderen",
+      "album_year": 2004,
+      "popularity": 19
+    },
+    {
+      "title": "Sinterklaas Wordt 100.000",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1995,
+      "spotify_track_url": "https://open.spotify.com/track/15im29WfNzf1u1hq5Ca6es",
+      "spotify_track_id": "15im29WfNzf1u1hq5Ca6es",
+      "album_name": "16 - Kinderen voor Kinderen",
+      "album_year": 1995,
+      "popularity": 19
+    },
+    {
+      "title": "Ik Ben Toch Zeker Sinterklaas Niet",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1986,
+      "spotify_track_url": "https://open.spotify.com/track/3ecoOUvFTZAYLEPh2Lua2L",
+      "spotify_track_id": "3ecoOUvFTZAYLEPh2Lua2L",
+      "album_name": "7 - Kinderen voor Kinderen",
+      "album_year": 1986,
+      "popularity": 19
+    },
+    {
+      "title": "Twee minuten stilte",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2023,
+      "spotify_track_url": "https://open.spotify.com/track/37F3RjNUoMiKu5BNp5kDEv",
+      "spotify_track_id": "37F3RjNUoMiKu5BNp5kDEv",
+      "album_name": "44 - Bij mij thuis",
+      "album_year": 2023,
+      "popularity": 18
+    },
+    {
+      "title": "Wereldburger",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2021,
+      "spotify_track_url": "https://open.spotify.com/track/7uf45Ogc2a92uLt6dHVMWP",
+      "spotify_track_id": "7uf45Ogc2a92uLt6dHVMWP",
+      "album_name": "42 - Worden wat je wil",
+      "album_year": 2021,
+      "popularity": 18
+    },
+    {
+      "title": "Sloddervos",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2016,
+      "spotify_track_url": "https://open.spotify.com/track/6AFNVxkwly7W8d1Q8DLVa4",
+      "spotify_track_id": "6AFNVxkwly7W8d1Q8DLVa4",
+      "album_name": "37 - Voor altijd jong!",
+      "album_year": 2016,
+      "popularity": 18
+    },
+    {
+      "title": "Als De Bel Gaat",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2015,
+      "spotify_track_url": "https://open.spotify.com/track/1ktG7PTDnmwiJoWoSVeeyd",
+      "spotify_track_id": "1ktG7PTDnmwiJoWoSVeeyd",
+      "album_name": "36 - Raar maar waar",
+      "album_year": 2015,
+      "popularity": 18
+    },
+    {
+      "title": "Hollywood",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2015,
+      "spotify_track_url": "https://open.spotify.com/track/42BKufY21xBVnhWAUml91l",
+      "spotify_track_id": "42BKufY21xBVnhWAUml91l",
+      "album_name": "36 - Raar maar waar",
+      "album_year": 2015,
+      "popularity": 18
+    },
+    {
+      "title": "Blij, Blij, Blij",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1996,
+      "spotify_track_url": "https://open.spotify.com/track/7ynbQ5K7M9av8ix54WluWN",
+      "spotify_track_id": "7ynbQ5K7M9av8ix54WluWN",
+      "album_name": "17 - Kinderen voor Kinderen",
+      "album_year": 1996,
+      "popularity": 18
+    },
+    {
+      "title": "Rauw En Primitief",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1993,
+      "spotify_track_url": "https://open.spotify.com/track/4O4SUStzqxiY3VN86gxVNL",
+      "spotify_track_id": "4O4SUStzqxiY3VN86gxVNL",
+      "album_name": "14 - Kinderen voor Kinderen",
+      "album_year": 1993,
+      "popularity": 18
+    },
+    {
+      "title": "Baklava Of Rijstevla",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1993,
+      "spotify_track_url": "https://open.spotify.com/track/0p4uzZ18iXdfuaWQkVdAIx",
+      "spotify_track_id": "0p4uzZ18iXdfuaWQkVdAIx",
+      "album_name": "14 - Kinderen voor Kinderen",
+      "album_year": 1993,
+      "popularity": 18
+    },
+    {
+      "title": "Ouders Te Koop",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1989,
+      "spotify_track_url": "https://open.spotify.com/track/7jhOVMuRkU5uN00Jj25DKk",
+      "spotify_track_id": "7jhOVMuRkU5uN00Jj25DKk",
+      "album_name": "10 - Kinderen voor Kinderen",
+      "album_year": 1989,
+      "popularity": 18
+    },
+    {
+      "title": "Blauwe plekken",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2021,
+      "spotify_track_url": "https://open.spotify.com/track/2NIiYotlVj0YOrk7ViJY7C",
+      "spotify_track_id": "2NIiYotlVj0YOrk7ViJY7C",
+      "album_name": "42 - Worden wat je wil",
+      "album_year": 2021,
+      "popularity": 17
+    },
+    {
+      "title": "Als Je Wordt Gepest",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2018,
+      "spotify_track_url": "https://open.spotify.com/track/4eQdlA0WV1QyNVn1f1aDrI",
+      "spotify_track_id": "4eQdlA0WV1QyNVn1f1aDrI",
+      "album_name": "39 - Kom erbij!",
+      "album_year": 2018,
+      "popularity": 17
+    },
+    {
+      "title": "Iedereen Heeft Talent",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2018,
+      "spotify_track_url": "https://open.spotify.com/track/0LSKuWoXldSpxrZt829mqb",
+      "spotify_track_id": "0LSKuWoXldSpxrZt829mqb",
+      "album_name": "39 - Kom erbij!",
+      "album_year": 2018,
+      "popularity": 17
+    },
+    {
+      "title": "Mijn Hele Leven Lang",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2017,
+      "spotify_track_url": "https://open.spotify.com/track/42NxsVjR4ipMnz26GCrVcW",
+      "spotify_track_id": "42NxsVjR4ipMnz26GCrVcW",
+      "album_name": "38 - Gruwelijk eng",
+      "album_year": 2017,
+      "popularity": 17
+    },
+    {
+      "title": "Groene Tante Gea",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2016,
+      "spotify_track_url": "https://open.spotify.com/track/15tk4pke76FYaVWjskKcKq",
+      "spotify_track_id": "15tk4pke76FYaVWjskKcKq",
+      "album_name": "37 - Voor altijd jong!",
+      "album_year": 2016,
+      "popularity": 17
+    },
+    {
+      "title": "Dierenvriend",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2016,
+      "spotify_track_url": "https://open.spotify.com/track/5l69UI0QPrddT53YJPKtnu",
+      "spotify_track_id": "5l69UI0QPrddT53YJPKtnu",
+      "album_name": "37 - Voor altijd jong!",
+      "album_year": 2016,
+      "popularity": 17
+    },
+    {
+      "title": "Roosmarijn",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1993,
+      "spotify_track_url": "https://open.spotify.com/track/2hlq2wgIiFMyPcKc2lQo27",
+      "spotify_track_id": "2hlq2wgIiFMyPcKc2lQo27",
+      "album_name": "14 - Kinderen voor Kinderen",
+      "album_year": 1993,
+      "popularity": 17
+    },
+    {
+      "title": "Joris En Jan",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1988,
+      "spotify_track_url": "https://open.spotify.com/track/6Oyr06pfXGSkez1ojvUPR5",
+      "spotify_track_id": "6Oyr06pfXGSkez1ojvUPR5",
+      "album_name": "9 - Kinderen voor Kinderen",
+      "album_year": 1988,
+      "popularity": 17
+    },
+    {
+      "title": "Mijn Oma Die Vlogt",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2016,
+      "spotify_track_url": "https://open.spotify.com/track/1v8LSeRSjDiWd3P0STQi3s",
+      "spotify_track_id": "1v8LSeRSjDiWd3P0STQi3s",
+      "album_name": "37 - Voor altijd jong!",
+      "album_year": 2016,
+      "popularity": 16
+    },
+    {
+      "title": "Boem Boem Boem",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2015,
+      "spotify_track_url": "https://open.spotify.com/track/6SNqJPTZJHXBcBKYrO6zc9",
+      "spotify_track_id": "6SNqJPTZJHXBcBKYrO6zc9",
+      "album_name": "36 - Raar maar waar",
+      "album_year": 2015,
+      "popularity": 16
+    },
+    {
+      "title": "Mijn Boek",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2014,
+      "spotify_track_url": "https://open.spotify.com/track/2DtT8DOxYMrvX9rOT4abEh",
+      "spotify_track_id": "2DtT8DOxYMrvX9rOT4abEh",
+      "album_name": "35 - Feest",
+      "album_year": 2014,
+      "popularity": 16
+    },
+    {
+      "title": "100 Jaar",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2012,
+      "spotify_track_url": "https://open.spotify.com/track/2DUGJ9jRdYUJMSQU3k0yBS",
+      "spotify_track_id": "2DUGJ9jRdYUJMSQU3k0yBS",
+      "album_name": "Hallo Wereld (33)",
+      "album_year": 2012,
+      "popularity": 16
+    },
+    {
+      "title": "Door Mijn Zonnebril",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2011,
+      "spotify_track_url": "https://open.spotify.com/track/3zbYStEEyiYUdamIsLoKnB",
+      "spotify_track_id": "3zbYStEEyiYUdamIsLoKnB",
+      "album_name": "32 - Zo bijzonder",
+      "album_year": 2011,
+      "popularity": 16
+    },
+    {
+      "title": "Ochtendhumeur",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1985,
+      "spotify_track_url": "https://open.spotify.com/track/50flaqljcV4iaoSajMPkV9",
+      "spotify_track_id": "50flaqljcV4iaoSajMPkV9",
+      "album_name": "6 - Kinderen voor Kinderen",
+      "album_year": 1985,
+      "popularity": 16
+    },
+    {
+      "title": "Op Een Onbewoond Eiland",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1981,
+      "spotify_track_url": "https://open.spotify.com/track/5Cek6oOjPnyXOnNtDCXZok",
+      "spotify_track_id": "5Cek6oOjPnyXOnNtDCXZok",
+      "album_name": "2 - Kinderen voor Kinderen",
+      "album_year": 1981,
+      "popularity": 16
+    },
+    {
+      "title": "Wereldband",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2016,
+      "spotify_track_url": "https://open.spotify.com/track/1FxYF4UOKtQEMiM9D1H1hC",
+      "spotify_track_id": "1FxYF4UOKtQEMiM9D1H1hC",
+      "album_name": "37 - Voor altijd jong!",
+      "album_year": 2016,
+      "popularity": 15
+    },
+    {
+      "title": "Geboren Kampioen",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2015,
+      "spotify_track_url": "https://open.spotify.com/track/4noe3CWJRzIIzDnqeFuk2A",
+      "spotify_track_id": "4noe3CWJRzIIzDnqeFuk2A",
+      "album_name": "36 - Raar maar waar",
+      "album_year": 2015,
+      "popularity": 15
+    },
+    {
+      "title": "Muziek Laat Je Dromen",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2014,
+      "spotify_track_url": "https://open.spotify.com/track/3Rmr3KOFwKAuE8nojG4zTX",
+      "spotify_track_id": "3Rmr3KOFwKAuE8nojG4zTX",
+      "album_name": "35 - Feest",
+      "album_year": 2014,
+      "popularity": 15
+    },
+    {
+      "title": "Wereldplan",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2014,
+      "spotify_track_url": "https://open.spotify.com/track/1DboxD1sSlWfwOWO5ct8o7",
+      "spotify_track_id": "1DboxD1sSlWfwOWO5ct8o7",
+      "album_name": "35 - Feest",
+      "album_year": 2014,
+      "popularity": 15
+    },
+    {
+      "title": "Meidenfeest",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2012,
+      "spotify_track_url": "https://open.spotify.com/track/743tH0MmsRGXrNzMh66PFc",
+      "spotify_track_id": "743tH0MmsRGXrNzMh66PFc",
+      "album_name": "Hallo Wereld (33)",
+      "album_year": 2012,
+      "popularity": 15
+    },
+    {
+      "title": "Jongensmeid",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2011,
+      "spotify_track_url": "https://open.spotify.com/track/5FRgRM99FYxWOQwJz7sm0H",
+      "spotify_track_id": "5FRgRM99FYxWOQwJz7sm0H",
+      "album_name": "32 - Zo bijzonder",
+      "album_year": 2011,
+      "popularity": 15
+    },
+    {
+      "title": "Twee Vaders",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2005,
+      "spotify_track_url": "https://open.spotify.com/track/7q7eWTHcd1rWFbZcf9oR8z",
+      "spotify_track_id": "7q7eWTHcd1rWFbZcf9oR8z",
+      "album_name": "26 - Kinderen voor Kinderen",
+      "album_year": 2005,
+      "popularity": 15
+    },
+    {
+      "title": "Wakker Met Een Wijsje",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1991,
+      "spotify_track_url": "https://open.spotify.com/track/342Hnqv489pleVRnE9Zp2M",
+      "spotify_track_id": "342Hnqv489pleVRnE9Zp2M",
+      "album_name": "12 - Kinderen voor Kinderen",
+      "album_year": 1991,
+      "popularity": 15
+    },
+    {
+      "title": "Onderweg",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1990,
+      "spotify_track_url": "https://open.spotify.com/track/6nZbrqjMqUIsm53KINevZd",
+      "spotify_track_id": "6nZbrqjMqUIsm53KINevZd",
+      "album_name": "11 - Kinderen voor Kinderen",
+      "album_year": 1990,
+      "popularity": 15
+    },
+    {
+      "title": "Zomaar...",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1990,
+      "spotify_track_url": "https://open.spotify.com/track/47y8hOTujMNB3X8kFQM1AA",
+      "spotify_track_id": "47y8hOTujMNB3X8kFQM1AA",
+      "album_name": "11 - Kinderen voor Kinderen",
+      "album_year": 1990,
+      "popularity": 15
+    },
+    {
+      "title": "Ha, Ha, Ha, Je Vader",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1982,
+      "spotify_track_url": "https://open.spotify.com/track/0GgrREsrEV9FwuMNIq4tnN",
+      "spotify_track_id": "0GgrREsrEV9FwuMNIq4tnN",
+      "album_name": "3 - Kinderen voor Kinderen",
+      "album_year": 1982,
+      "popularity": 15
+    },
+    {
+      "title": "Dans alleen (akoestisch)",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2022,
+      "spotify_track_url": "https://open.spotify.com/track/49f7YJOc1GGvg4R0c0c8PC",
+      "spotify_track_id": "49f7YJOc1GGvg4R0c0c8PC",
+      "album_name": "43 - Gi-ga-groen",
+      "album_year": 2022,
+      "popularity": 14
+    },
+    {
+      "title": "Wat Maakt Het Uit",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2018,
+      "spotify_track_url": "https://open.spotify.com/track/7aYnjXVVZ4GXXIPLW9WOUj",
+      "spotify_track_id": "7aYnjXVVZ4GXXIPLW9WOUj",
+      "album_name": "39 - Kom erbij!",
+      "album_year": 2018,
+      "popularity": 14
+    },
+    {
+      "title": "Ik Wil Later Rapper Worden",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2018,
+      "spotify_track_url": "https://open.spotify.com/track/6V8fnpitwkpg7tKWZHJ864",
+      "spotify_track_id": "6V8fnpitwkpg7tKWZHJ864",
+      "album_name": "39 - Kom erbij!",
+      "album_year": 2018,
+      "popularity": 14
+    },
+    {
+      "title": "Vandaag Ben Ik De Baas",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2016,
+      "spotify_track_url": "https://open.spotify.com/track/0uHpXmqjhrNEn7JDzMM1Iw",
+      "spotify_track_id": "0uHpXmqjhrNEn7JDzMM1Iw",
+      "album_name": "37 - Voor altijd jong!",
+      "album_year": 2016,
+      "popularity": 14
+    },
+    {
+      "title": "Eventjes Alleen",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2015,
+      "spotify_track_url": "https://open.spotify.com/track/6zhtp3pa5hAdxeTfDsIqpC",
+      "spotify_track_id": "6zhtp3pa5hAdxeTfDsIqpC",
+      "album_name": "36 - Raar maar waar",
+      "album_year": 2015,
+      "popularity": 14
+    },
+    {
+      "title": "Freaky Leuke Dag",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2015,
+      "spotify_track_url": "https://open.spotify.com/track/7wG1qulseFfxdF8uFuxgWM",
+      "spotify_track_id": "7wG1qulseFfxdF8uFuxgWM",
+      "album_name": "36 - Raar maar waar",
+      "album_year": 2015,
+      "popularity": 14
+    },
+    {
+      "title": "Als Een Meeuw Boven Zee",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2004,
+      "spotify_track_url": "https://open.spotify.com/track/4lYo6dfE46f8weJxdqMOO7",
+      "spotify_track_id": "4lYo6dfE46f8weJxdqMOO7",
+      "album_name": "25 - Kinderen voor Kinderen",
+      "album_year": 2004,
+      "popularity": 14
+    },
+    {
+      "title": "Smoorverliefd",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1997,
+      "spotify_track_url": "https://open.spotify.com/track/35nNm6qxV2DPgFvve1Hw35",
+      "spotify_track_id": "35nNm6qxV2DPgFvve1Hw35",
+      "album_name": "18 - Kinderen voor Kinderen",
+      "album_year": 1997,
+      "popularity": 14
+    },
+    {
+      "title": "Mama Is Morgen Van Mij",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1995,
+      "spotify_track_url": "https://open.spotify.com/track/0KzAoPvfc6KuaEMt62axIW",
+      "spotify_track_id": "0KzAoPvfc6KuaEMt62axIW",
+      "album_name": "16 - Kinderen voor Kinderen",
+      "album_year": 1995,
+      "popularity": 14
+    },
+    {
+      "title": "Als Niemand Kijkt",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1990,
+      "spotify_track_url": "https://open.spotify.com/track/1oqxCBeZRuqk6rGftHJmBt",
+      "spotify_track_id": "1oqxCBeZRuqk6rGftHJmBt",
+      "album_name": "11 - Kinderen voor Kinderen",
+      "album_year": 1990,
+      "popularity": 14
+    },
+    {
+      "title": "Treuzeltechniek",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1984,
+      "spotify_track_url": "https://open.spotify.com/track/4vU7emoNlqLb4dSaYQ8RrR",
+      "spotify_track_id": "4vU7emoNlqLb4dSaYQ8RrR",
+      "album_name": "5 - Kinderen voor Kinderen",
+      "album_year": 1984,
+      "popularity": 14
+    },
+    {
+      "title": "Meidengroep",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1983,
+      "spotify_track_url": "https://open.spotify.com/track/0XTGOYPTRmkKQ0szjbbWwV",
+      "spotify_track_id": "0XTGOYPTRmkKQ0szjbbWwV",
+      "album_name": "4 - Kinderen voor Kinderen",
+      "album_year": 1983,
+      "popularity": 14
+    },
+    {
+      "title": "Een Gezonde Planeet",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2018,
+      "spotify_track_url": "https://open.spotify.com/track/4a3dCFQgdqjk52oVYwqgwN",
+      "spotify_track_id": "4a3dCFQgdqjk52oVYwqgwN",
+      "album_name": "39 - Kom erbij!",
+      "album_year": 2018,
+      "popularity": 13
+    },
+    {
+      "title": "Echt Niet Verliefd",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2016,
+      "spotify_track_url": "https://open.spotify.com/track/6PETWqDuz18jrQU1LUxVaK",
+      "spotify_track_id": "6PETWqDuz18jrQU1LUxVaK",
+      "album_name": "37 - Voor altijd jong!",
+      "album_year": 2016,
+      "popularity": 13
+    },
+    {
+      "title": "De Klimaat Top 10",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2015,
+      "spotify_track_url": "https://open.spotify.com/track/317THHhJEDiAS5kQKxLYcz",
+      "spotify_track_id": "317THHhJEDiAS5kQKxLYcz",
+      "album_name": "36 - Raar maar waar",
+      "album_year": 2015,
+      "popularity": 13
+    },
+    {
+      "title": "Ik Lust Alles",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2014,
+      "spotify_track_url": "https://open.spotify.com/track/7fdBhmc2GtOpRunUjaFKFG",
+      "spotify_track_id": "7fdBhmc2GtOpRunUjaFKFG",
+      "album_name": "35 - Feest",
+      "album_year": 2014,
+      "popularity": 13
+    },
+    {
+      "title": "Gadgetfreak",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2012,
+      "spotify_track_url": "https://open.spotify.com/track/17eRoZ5HCrXqwcKE64VpO4",
+      "spotify_track_id": "17eRoZ5HCrXqwcKE64VpO4",
+      "album_name": "Hallo Wereld (33)",
+      "album_year": 2012,
+      "popularity": 13
+    },
+    {
+      "title": "Citotoets",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2012,
+      "spotify_track_url": "https://open.spotify.com/track/5eTEvsweY0ThE7m9ihBBfi",
+      "spotify_track_id": "5eTEvsweY0ThE7m9ihBBfi",
+      "album_name": "Hallo Wereld (33)",
+      "album_year": 2012,
+      "popularity": 13
+    },
+    {
+      "title": "Ik Wil Een Tattoo",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2012,
+      "spotify_track_url": "https://open.spotify.com/track/4N5b3Qr1Kxd6SXMRKjlhSU",
+      "spotify_track_id": "4N5b3Qr1Kxd6SXMRKjlhSU",
+      "album_name": "Hallo Wereld (33)",
+      "album_year": 2012,
+      "popularity": 13
+    },
+    {
+      "title": "Zakgeld",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1990,
+      "spotify_track_url": "https://open.spotify.com/track/25xv5E1wBa6Xzm2YwSBWKw",
+      "spotify_track_id": "25xv5E1wBa6Xzm2YwSBWKw",
+      "album_name": "11 - Kinderen voor Kinderen",
+      "album_year": 1990,
+      "popularity": 13
+    },
+    {
+      "title": "De Achtertuin",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1990,
+      "spotify_track_url": "https://open.spotify.com/track/6IpE6YU9BuKlLsIwbLYYBg",
+      "spotify_track_id": "6IpE6YU9BuKlLsIwbLYYBg",
+      "album_name": "11 - Kinderen voor Kinderen",
+      "album_year": 1990,
+      "popularity": 13
+    },
+    {
+      "title": "Stom Hoor",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1990,
+      "spotify_track_url": "https://open.spotify.com/track/2iQdlPxpA4iExhpHOCOD5P",
+      "spotify_track_id": "2iQdlPxpA4iExhpHOCOD5P",
+      "album_name": "11 - Kinderen voor Kinderen",
+      "album_year": 1990,
+      "popularity": 13
+    },
+    {
+      "title": "Ik Wil Nog Dit, Ik Wil Nog Dat",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1990,
+      "spotify_track_url": "https://open.spotify.com/track/4Ll3a801LqwPsdowB2ay8E",
+      "spotify_track_id": "4Ll3a801LqwPsdowB2ay8E",
+      "album_name": "11 - Kinderen voor Kinderen",
+      "album_year": 1990,
+      "popularity": 13
+    },
+    {
+      "title": "Annemiek",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1990,
+      "spotify_track_url": "https://open.spotify.com/track/1SrC1cmWDvBEVJK01hJ2mX",
+      "spotify_track_id": "1SrC1cmWDvBEVJK01hJ2mX",
+      "album_name": "11 - Kinderen voor Kinderen",
+      "album_year": 1990,
+      "popularity": 13
+    },
+    {
+      "title": "Ik En M'n Beessie",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1980,
+      "spotify_track_url": "https://open.spotify.com/track/33peNnBkYfmjvdRsVXCVR0",
+      "spotify_track_id": "33peNnBkYfmjvdRsVXCVR0",
+      "album_name": "1 - Kinderen voor Kinderen",
+      "album_year": 1980,
+      "popularity": 13
+    },
+    {
+      "title": "De Wrat",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1980,
+      "spotify_track_url": "https://open.spotify.com/track/6ZQ0fZJOkicRAPNX24KjOa",
+      "spotify_track_id": "6ZQ0fZJOkicRAPNX24KjOa",
+      "album_name": "1 - Kinderen voor Kinderen",
+      "album_year": 1980,
+      "popularity": 13
+    },
+    {
+      "title": "Beugelbekkie, Pestbril",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1980,
+      "spotify_track_url": "https://open.spotify.com/track/2tplvybO3U8Q7OcqZiRl79",
+      "spotify_track_id": "2tplvybO3U8Q7OcqZiRl79",
+      "album_name": "1 - Kinderen voor Kinderen",
+      "album_year": 1980,
+      "popularity": 13
+    },
+    {
+      "title": "Beste Weekend",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2018,
+      "spotify_track_url": "https://open.spotify.com/track/4J4QBwdMY4IOLIrUUMX3V6",
+      "spotify_track_id": "4J4QBwdMY4IOLIrUUMX3V6",
+      "album_name": "39 - Kom erbij!",
+      "album_year": 2018,
+      "popularity": 12
+    },
+    {
+      "title": "Mijn Spaarpot En Ik",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2016,
+      "spotify_track_url": "https://open.spotify.com/track/1aJCzgh294cTiXYcbU4ZDq",
+      "spotify_track_id": "1aJCzgh294cTiXYcbU4ZDq",
+      "album_name": "37 - Voor altijd jong!",
+      "album_year": 2016,
+      "popularity": 12
+    },
+    {
+      "title": "Nelson Mandela",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2014,
+      "spotify_track_url": "https://open.spotify.com/track/2NNdrlZPa8lRVY8wCyKASA",
+      "spotify_track_id": "2NNdrlZPa8lRVY8wCyKASA",
+      "album_name": "35 - Feest",
+      "album_year": 2014,
+      "popularity": 12
+    },
+    {
+      "title": "Het Huis Is Van Ons",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2014,
+      "spotify_track_url": "https://open.spotify.com/track/553habUunszBuv1Ri4OZwN",
+      "spotify_track_id": "553habUunszBuv1Ri4OZwN",
+      "album_name": "35 - Feest",
+      "album_year": 2014,
+      "popularity": 12
+    },
+    {
+      "title": "Nu Het Feestje Voorbij Is",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2014,
+      "spotify_track_url": "https://open.spotify.com/track/499EmilasVeMPF0l5X6FBY",
+      "spotify_track_id": "499EmilasVeMPF0l5X6FBY",
+      "album_name": "35 - Feest",
+      "album_year": 2014,
+      "popularity": 12
+    },
+    {
+      "title": "Boem Boem Klap",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2011,
+      "spotify_track_url": "https://open.spotify.com/track/6IEHkJKddKGFvsKoXmAj2t",
+      "spotify_track_id": "6IEHkJKddKGFvsKoXmAj2t",
+      "album_name": "32 - Zo bijzonder",
+      "album_year": 2011,
+      "popularity": 12
+    },
+    {
+      "title": "Lang Leve De Tegenstander",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2011,
+      "spotify_track_url": "https://open.spotify.com/track/7ov2QU9mjmGGsA5DGbIjYq",
+      "spotify_track_id": "7ov2QU9mjmGGsA5DGbIjYq",
+      "album_name": "32 - Zo bijzonder",
+      "album_year": 2011,
+      "popularity": 12
+    },
+    {
+      "title": "Het Kind Van 10 Miljoen",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2000,
+      "spotify_track_url": "https://open.spotify.com/track/7qRgDFKRCHQEelaZTpbh9F",
+      "spotify_track_id": "7qRgDFKRCHQEelaZTpbh9F",
+      "album_name": "21- Kinderen voor Kinderen",
+      "album_year": 2000,
+      "popularity": 12
+    },
+    {
+      "title": "Wij Zijn Vriendinnen",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2000,
+      "spotify_track_url": "https://open.spotify.com/track/3MtxRJsPrOLp7nIiMxMznr",
+      "spotify_track_id": "3MtxRJsPrOLp7nIiMxMznr",
+      "album_name": "21- Kinderen voor Kinderen",
+      "album_year": 2000,
+      "popularity": 12
+    },
+    {
+      "title": "Vuur En Vlam",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1992,
+      "spotify_track_url": "https://open.spotify.com/track/7EackmL81KrKiIWSHbEyHT",
+      "spotify_track_id": "7EackmL81KrKiIWSHbEyHT",
+      "album_name": "13 - Kinderen voor Kinderen",
+      "album_year": 1992,
+      "popularity": 12
+    },
+    {
+      "title": "Eén Been Op De Stoep",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1987,
+      "spotify_track_url": "https://open.spotify.com/track/7tv087xWlnRSjfnVeDCKWH",
+      "spotify_track_id": "7tv087xWlnRSjfnVeDCKWH",
+      "album_name": "8 - Kinderen voor Kinderen",
+      "album_year": 1987,
+      "popularity": 12
+    },
+    {
+      "title": "Puberteitsballade",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1980,
+      "spotify_track_url": "https://open.spotify.com/track/1HfE4KBADC8rIEXJazQ1hH",
+      "spotify_track_id": "1HfE4KBADC8rIEXJazQ1hH",
+      "album_name": "1 - Kinderen voor Kinderen",
+      "album_year": 1980,
+      "popularity": 12
+    },
+    {
+      "title": "O, Dat Huiswerk",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1980,
+      "spotify_track_url": "https://open.spotify.com/track/2f7IK2YYtcew6QviVhHJVO",
+      "spotify_track_id": "2f7IK2YYtcew6QviVhHJVO",
+      "album_name": "1 - Kinderen voor Kinderen",
+      "album_year": 1980,
+      "popularity": 12
+    },
+    {
+      "title": "Word Ik Dit of Word Ik Dat",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2012,
+      "spotify_track_url": "https://open.spotify.com/track/3gykZTqUk5p4DoB8e9ImBg",
+      "spotify_track_id": "3gykZTqUk5p4DoB8e9ImBg",
+      "album_name": "Hallo Wereld (33)",
+      "album_year": 2012,
+      "popularity": 11
+    },
+    {
+      "title": "Mijn Laatste Sms",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2011,
+      "spotify_track_url": "https://open.spotify.com/track/49VOZnGZD0EEv2jqCh9jKf",
+      "spotify_track_id": "49VOZnGZD0EEv2jqCh9jKf",
+      "album_name": "32 - Zo bijzonder",
+      "album_year": 2011,
+      "popularity": 11
+    },
+    {
+      "title": "Als Ik Minister-President Zou Zijn",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2011,
+      "spotify_track_url": "https://open.spotify.com/track/1LvfdgIUWWZxqkAVP9GCWv",
+      "spotify_track_id": "1LvfdgIUWWZxqkAVP9GCWv",
+      "album_name": "32 - Zo bijzonder",
+      "album_year": 2011,
+      "popularity": 11
+    },
+    {
+      "title": "Morgen Word Ik Vegetariër",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2011,
+      "spotify_track_url": "https://open.spotify.com/track/6etdEl0x7bMYgSdzUnWRVf",
+      "spotify_track_id": "6etdEl0x7bMYgSdzUnWRVf",
+      "album_name": "32 - Zo bijzonder",
+      "album_year": 2011,
+      "popularity": 11
+    },
+    {
+      "title": "Buiten Spelen",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2008,
+      "spotify_track_url": "https://open.spotify.com/track/01qctukQC2qlt78zHNjUXe",
+      "spotify_track_id": "01qctukQC2qlt78zHNjUXe",
+      "album_name": "29 - Buiten spelen",
+      "album_year": 2008,
+      "popularity": 11
+    },
+    {
+      "title": "Alles Van Paarden",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1995,
+      "spotify_track_url": "https://open.spotify.com/track/1v19IjPf4c7BbYLQIHYXDu",
+      "spotify_track_id": "1v19IjPf4c7BbYLQIHYXDu",
+      "album_name": "16 - Kinderen voor Kinderen",
+      "album_year": 1995,
+      "popularity": 11
+    },
+    {
+      "title": "Vandaag Ben Ik Een Vliegtuig",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1993,
+      "spotify_track_url": "https://open.spotify.com/track/4TOHtGqByKrVdqHMAycFjK",
+      "spotify_track_id": "4TOHtGqByKrVdqHMAycFjK",
+      "album_name": "14 - Kinderen voor Kinderen",
+      "album_year": 1993,
+      "popularity": 11
+    },
+    {
+      "title": "Vakantie In Italië",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1989,
+      "spotify_track_url": "https://open.spotify.com/track/60Ld9fPtUVD9tkUc60ZnfQ",
+      "spotify_track_id": "60Ld9fPtUVD9tkUc60ZnfQ",
+      "album_name": "10 - Kinderen voor Kinderen",
+      "album_year": 1989,
+      "popularity": 11
+    },
+    {
+      "title": "Astronaut",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1988,
+      "spotify_track_url": "https://open.spotify.com/track/2lyCamEIyzBVKzFcxkZiqa",
+      "spotify_track_id": "2lyCamEIyzBVKzFcxkZiqa",
+      "album_name": "9 - Kinderen voor Kinderen",
+      "album_year": 1988,
+      "popularity": 11
+    },
+    {
+      "title": "Ik Krijg Er Straks Een Zusje Bij",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2014,
+      "spotify_track_url": "https://open.spotify.com/track/3cZPsN0SgMjyi3WVMkTakN",
+      "spotify_track_id": "3cZPsN0SgMjyi3WVMkTakN",
+      "album_name": "35 - Feest",
+      "album_year": 2014,
+      "popularity": 10
+    },
+    {
+      "title": "Je Staart Weer Naar Je Telefoon",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2014,
+      "spotify_track_url": "https://open.spotify.com/track/1LoZZ0ZlYxfV7xRsKRPIpn",
+      "spotify_track_id": "1LoZZ0ZlYxfV7xRsKRPIpn",
+      "album_name": "35 - Feest",
+      "album_year": 2014,
+      "popularity": 10
+    },
+    {
+      "title": "Mama´s Telefoon",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2012,
+      "spotify_track_url": "https://open.spotify.com/track/1geNMPcwNztlYgUzswfM3S",
+      "spotify_track_id": "1geNMPcwNztlYgUzswfM3S",
+      "album_name": "Hallo Wereld (33)",
+      "album_year": 2012,
+      "popularity": 10
+    },
+    {
+      "title": "Dat Was Papa",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2011,
+      "spotify_track_url": "https://open.spotify.com/track/3dbnUAU5LEhwmLUTp5EWul",
+      "spotify_track_id": "3dbnUAU5LEhwmLUTp5EWul",
+      "album_name": "32 - Zo bijzonder",
+      "album_year": 2011,
+      "popularity": 10
+    },
+    {
+      "title": "Ik Ben Wie Ik Ben",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2011,
+      "spotify_track_url": "https://open.spotify.com/track/1vPu5xSYguX3PmKMU0ls5y",
+      "spotify_track_id": "1vPu5xSYguX3PmKMU0ls5y",
+      "album_name": "32 - Zo bijzonder",
+      "album_year": 2011,
+      "popularity": 10
+    },
+    {
+      "title": "Ouders Gevraagd",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2009,
+      "spotify_track_url": "https://open.spotify.com/track/39QPFyFTrlTeIsLcog5AJx",
+      "spotify_track_id": "39QPFyFTrlTeIsLcog5AJx",
+      "album_name": "30 - Lachen is gezond",
+      "album_year": 2009,
+      "popularity": 10
+    },
+    {
+      "title": "Hij Kan Niet Tegen Zijn Verlies",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1996,
+      "spotify_track_url": "https://open.spotify.com/track/5M8t8kSH1qjKPC1TOIniM1",
+      "spotify_track_id": "5M8t8kSH1qjKPC1TOIniM1",
+      "album_name": "17 - Kinderen voor Kinderen",
+      "album_year": 1996,
+      "popularity": 10
+    },
+    {
+      "title": "Later Zul Je Lachen",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1995,
+      "spotify_track_url": "https://open.spotify.com/track/79tLI3MI2xAuGqDp2kFMQb",
+      "spotify_track_id": "79tLI3MI2xAuGqDp2kFMQb",
+      "album_name": "16 - Kinderen voor Kinderen",
+      "album_year": 1995,
+      "popularity": 10
+    },
+    {
+      "title": "Domme Domme Dodo",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1995,
+      "spotify_track_url": "https://open.spotify.com/track/7Gswzq70R1z4ni1FwwgKSU",
+      "spotify_track_id": "7Gswzq70R1z4ni1FwwgKSU",
+      "album_name": "16 - Kinderen voor Kinderen",
+      "album_year": 1995,
+      "popularity": 10
+    },
+    {
+      "title": "Zusje Van Mijn Zus",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1994,
+      "spotify_track_url": "https://open.spotify.com/track/04d1pVh72wXAmPQVe3YFCI",
+      "spotify_track_id": "04d1pVh72wXAmPQVe3YFCI",
+      "album_name": "15 Kinderen voor Kinderen",
+      "album_year": 1994,
+      "popularity": 10
+    },
+    {
+      "title": "Als Niemand Kijkt - Meezingversie",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1990,
+      "spotify_track_url": "https://open.spotify.com/track/4kdhYtkZro2QexOBAJ07IE",
+      "spotify_track_id": "4kdhYtkZro2QexOBAJ07IE",
+      "album_name": "11 - Kinderen voor Kinderen",
+      "album_year": 1990,
+      "popularity": 10
+    },
+    {
+      "title": "En Ik",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1981,
+      "spotify_track_url": "https://open.spotify.com/track/7qzFrpUIMrF9AFxNM1x2XS",
+      "spotify_track_id": "7qzFrpUIMrF9AFxNM1x2XS",
+      "album_name": "2 - Kinderen voor Kinderen",
+      "album_year": 1981,
+      "popularity": 10
+    },
+    {
+      "title": "Rikkie",
+      "artist": "Kinderen voor Kinderen",
+      "year": 1980,
+      "spotify_track_url": "https://open.spotify.com/track/7KRd8W4bnk0OigsK3Y9As6",
+      "spotify_track_id": "7KRd8W4bnk0OigsK3Y9As6",
+      "album_name": "1 - Kinderen voor Kinderen",
+      "album_year": 1980,
+      "popularity": 10
+    },
+    {
+      "title": "Wie Liet 'M",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2013,
+      "spotify_track_url": "https://open.spotify.com/track/4LmE0ZQ7owSxQ01GhF76An",
+      "spotify_track_id": "4LmE0ZQ7owSxQ01GhF76An",
+      "album_name": "34 - Klaar voor de start",
+      "album_year": 2013,
+      "popularity": 9
+    },
+    {
+      "title": "Mijn Valentijn",
+      "artist": "Kinderen voor Kinderen",
+      "year": 2013,
+      "spotify_track_url": "https://open.spotify.com/track/5lTK1VVuoViKzrhyplk5wP",
+      "spotify_track_id": "5lTK1VVuoViKzrhyplk5wP",
+      "album_name": "34 - Klaar voor de start",
+      "album_year": 2013,
+      "popularity": 9
+    }
+  ]
+}

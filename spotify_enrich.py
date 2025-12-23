@@ -10,7 +10,7 @@ from time import sleep
 INPUT_FILE = "data/songs.json"
 OUTPUT_FILE = "data/output_top_tracks.json"
 
-TOP_N = 250           # Aantal tracks dat je wilt behouden
+TOP_N = 250  # Aantal tracks dat je wilt behouden
 REQUEST_DELAY = 0.1  # Kleine delay tegen rate limits
 
 # ==============================
@@ -23,6 +23,7 @@ CLIENT_SECRET = os.getenv("SPOTIFY_CLIENT_SECRET")
 if not CLIENT_ID or not CLIENT_SECRET:
     raise RuntimeError("Spotify credentials ontbreken")
 
+
 def get_access_token():
     url = "https://accounts.spotify.com/api/token"
     response = requests.post(
@@ -33,9 +34,11 @@ def get_access_token():
     response.raise_for_status()
     return response.json()["access_token"]
 
+
 # ==============================
 # SPOTIFY API
 # ==============================
+
 
 def get_track_popularity(track_id, token):
     url = f"https://api.spotify.com/v1/tracks/{track_id}"
@@ -48,9 +51,11 @@ def get_track_popularity(track_id, token):
     data = response.json()
     return data.get("popularity")
 
+
 # ==============================
 # MAIN LOGICA
 # ==============================
+
 
 def main():
     print("▶ Laden input JSON...")
@@ -63,7 +68,7 @@ def main():
     enriched_tracks = []
 
     for idx, track in enumerate(tracks, start=1):
-        track_id = track.get("spotify_id")
+        track_id = track.get("spotify_track_id")
         if not track_id:
             continue
 
@@ -79,6 +84,36 @@ def main():
             print(f"  ... {idx}/{len(tracks)} verwerkt")
 
         sleep(REQUEST_DELAY)
+    print("▶ Filteren van instrumentals en tunes...")
+
+    EXCLUDE_KEYWORDS = [
+        "instrumental", "instrumentaal", "tune", "intro", "opening", "thema"
+    ]
+
+    def is_excluded(track):
+        title = track.get("title", "").lower()
+        return any(keyword in title for keyword in EXCLUDE_KEYWORDS)
+
+    enriched_tracks = [
+        track for track in enriched_tracks if not is_excluded(track)
+    ]
+    print("▶ Dedupliceren op titel + artiest (hoogste popularity wint)...")
+
+    unique_tracks = {}
+
+    for track in enriched_tracks:
+        key = (track.get("title",
+                         "").strip().lower(), track.get("artist",
+                                                        "").strip().lower())
+
+        if key not in unique_tracks:
+            unique_tracks[key] = track
+        else:
+            # bewaar de versie met hoogste popularity
+            if track["popularity"] > unique_tracks[key]["popularity"]:
+                unique_tracks[key] = track
+
+    enriched_tracks = list(unique_tracks.values())
 
     print("▶ Sorteren op populariteit...")
     enriched_tracks.sort(key=lambda t: t["popularity"], reverse=True)
@@ -98,10 +133,10 @@ def main():
 
     print("✅ Klaar!")
 
+
 # ==============================
 # ENTRYPOINT
 # ==============================
 
 if __name__ == "__main__":
     main()
-
